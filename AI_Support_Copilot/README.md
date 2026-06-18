@@ -40,7 +40,12 @@ An n8n workflow classifies emails with OpenAI, retrieves a GitHub knowledge arti
 
 ## Tech Stack
 
-n8n, Gmail, OpenAI, GitHub, Jira
+email service, n8n, OpenAI, ticketing system, Knowledge Base
+
+Example integrations:
+Gmail / Outlook
+Jira / Zendesk / ServiceNow
+GitHub / SharePoint / Confluence
 
 ---
 
