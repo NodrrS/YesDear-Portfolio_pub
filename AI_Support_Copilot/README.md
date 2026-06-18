@@ -16,7 +16,7 @@ An AI-powered support assistant that helps teams handle customer inquiries faste
 
 ##  Artifacts
 
-- [ ] n8n workflow export (JSON)
+- [ ] Full implementation available during interviews or client discussions.
 - [ ] Architecture diagram
 - [ ] Screenshots of the workflow and UI
 - [ ] Requirements document
